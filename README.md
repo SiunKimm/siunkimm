@@ -27,16 +27,6 @@ DevOps & Tools: Docker, Git, Cloud, SonarQube, Jira, Confluence/Postman, Notion
 
 ---
 
-## Featured Projects
-
-| Project | Description | Technologies |
-|--------|-------------|--------------|
-| [space-rock-dl-classifier](https://github.com/SiunKimm/space-rock-dl-classifier) | Deep learning classifier for space rock images | PyTorch, Gradio, Azure |
-| [seoul-bike-analysis](https://github.com/SiunKimm/seoul-bike-analysis) | Public bike rental data analysis in Seoul | pandas, seaborn, folium |
-| [custom-vision-gradio](https://github.com/SiunKimm/space-rock-dl-classifier/blob/main/gradio.ipynb) | Real-time object detection demo | Azure Custom Vision, Gradio |
-
----
-
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SiunKimm&layout=compact)
