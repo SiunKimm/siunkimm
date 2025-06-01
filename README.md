@@ -27,7 +27,7 @@ DevOps & Tools: Docker, Git, Cloud, SonarQube, Jira, Confluence/Postman, Notion
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SiunKimm&layout=compact)
 
