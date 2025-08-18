@@ -21,11 +21,11 @@ Over 3 years of hands-on experience in **government SI & R&D projects**, bridgin
 
 | Domain               | Tools & Frameworks                                |
 |----------------------|---------------------------------------------------|
-| **Languages**        | Java · Python · SQL                               |
+| **Languages**        | Java · Python                                     |
 | **Frameworks**       | Spring Boot · Spring MVC                          |
 | **Databases**        | PostgreSQL · Redis · MySQL                        |
 | **DevOps / CI·CD**   | Docker · GitLab CI · Jenkins · SonarQube          |
-| **Cloud & Infra**    | AWS · Naver Cloud Platform · NHN Cloud            |
+| **Cloud & Infra**    | Azure · Naver Cloud Platform · NHN Cloud          |
 | **Documentation**    | Confluence · Jira · Notion · Postman              |
 
 ---
