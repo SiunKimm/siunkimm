@@ -3,9 +3,11 @@
 # Hi, I’m **Sean**
 
 An **Application Architect** based in Seoul, South Korea.
+
 I specialize in designing scalable, cloud-native systems and leading DevOps practices.
 
 My experience spans from architecting large-scale public platforms to leading the backend and DevOps for a **K8s-based cloud computing platform**.
+
 I hold dual associate degrees in **Computer Science** and **Liberal Arts** from the U.S. and am currently pursuing a B.S. in Computer Science.
 
 ---
