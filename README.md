@@ -2,38 +2,41 @@
 
 # Hi, I’m **Sean**
 
-Back-end engineer with a dual degree in **Computer Science** and **Liberal Arts** (USA).  
-Over 3 years of hands-on experience in **government SI & R&D projects**, bridging backend systems and operational infrastructure.
+An **Application Architect** based in Seoul, South Korea. I specialize in designing scalable, cloud-native systems and leading DevOps practices.
+My experience spans from architecting large-scale public platforms to leading the backend and DevOps for a **K8s-based cloud computing platform**.
+I hold dual associate degrees in **Computer Science** and **Liberal Arts** from the U.S. and am currently pursuing a B.S. in Computer Science.
 
 ---
 
 ## About Me
 
-- **Backend Developer** specialized in **Java/Spring Boot** and **RESTful API** development
-- Experienced in large-scale **public sector projects**, including R&D-backed AI recommendation platforms
-- Built **CI/CD pipelines** using GitLab, Jenkins, Docker, and SonarQube
-- Acted as **AA position**, managing **Confluence-based documentation**, development guidelines, and cross-team collaboration
-- Successfully balanced full-time development work while earning a U.S. degree online, graduating with high honors
+- Architecting and developing resilient backend systems with a focus on **microservices** and **RESTful APIs**.
+- Leading **DevOps** initiatives on a **Kubernetes-based** platform to automate and streamline development workflows.
+- Experienced in building and managing **CI/CD pipelines** using Docker, Kubernetes, GitLab, and Jenkins.
+- Proficient in technical documentation, setting development guidelines, and enhancing team collaboration with Confluence and Jira.
+- Certified **Azure AI Fundamentals** professional with hands-on experience in AI service development.
 
 ---
 
 ## Tech Stack
 
-| Domain               | Tools & Frameworks                                |
-|----------------------|---------------------------------------------------|
-| **Languages**        | Java · Python                                     |
-| **Frameworks**       | Spring Boot · Spring MVC                          |
-| **Databases**        | PostgreSQL · Redis · MySQL                        |
-| **DevOps / CI·CD**   | Docker · GitLab CI · Jenkins · SonarQube          |
-| **Cloud & Infra**    | Azure · Naver Cloud Platform · NHN Cloud          |
-| **Documentation**    | Confluence · Jira · Notion · Postman              |
+| Domain                      | Tools & Frameworks                                        |
+|-----------------------------|-----------------------------------------------------------|
+| **Backend** | Java · Python · Spring Boot · Spring MVC                                  |
+| **Data Store** | PostgreSQL · Redis · MySQL                                             |
+| **Container & Orchestration** | **Kubernetes** · Docker                                 |
+| **CI/CD & Automation** | Jenkins · GitLab CI · SonarQube                                |
+| **Cloud & Infrastructure** | Azure · Naver Cloud Platform · NHN Cloud                   |
+| **Tools & Collaboration** | Git · Postman · Confluence · Jira · Notion                  |
 
 ---
 
 ## Current Focus
 
-I’m currently deepening my expertise in **DevOps automation**, **cloud-native infrastructure**, and **LLM-powered AI services**.  
-My goal is to become a developer who bridges backend development with robust, scalable operations.
+I am passionate about bridging backend development with robust, scalable operations. My current interests include:
+- **Cloud-Native Architecture** & **DevOps Automation**
+- **System Design for High-Traffic Services**
+- **AI Service Integration** using cloud platforms like Azure
 
 ---
 
