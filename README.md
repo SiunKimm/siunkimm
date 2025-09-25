@@ -25,7 +25,7 @@ My experience spans from architecting large-scale public platforms to leading th
 |-----------------------------|-----------------------------------------------------------|
 | **Backend** | Java · Python · Spring Boot · Spring MVC                                  |
 | **Data Store** | PostgreSQL · Redis · MySQL                                             |
-| **Container & Orchestration** | **Kubernetes** · Docker                                 |
+| **Container & Orchestration** | Kubernetes · Docker                                     |
 | **CI/CD & Automation** | Jenkins · GitLab CI · SonarQube                                |
 | **Cloud & Infrastructure** | Azure · Naver Cloud Platform · NHN Cloud                   |
 | **Tools & Collaboration** | Git · Postman · Confluence · Jira · Notion                  |
