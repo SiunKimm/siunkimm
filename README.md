@@ -41,12 +41,6 @@ I am passionate about bridging backend development with robust, scalable operati
 
 ---
 
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SiunKimm&layout=compact)
-
----
-
 ### Let’s Connect
 
 Thanks for stopping by! I'm always open to collaboration, technical chats, or shared learning experiences.
